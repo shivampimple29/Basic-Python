@@ -1,0 +1,11 @@
+a=input("Enter the num 1:")
+b=input("Enter the num 2:")
+print("num a is: ", a)
+print("num b is: ", b)
+print("sum is: ", a+b)
+
+a=int(input("Enter the num 1:"))
+b=int(input("Enter the num 2:"))
+print("num a is: ", a)
+print("num b is: ", b)
+print("sum is: ", a+b)
