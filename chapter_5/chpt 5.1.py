@@ -1,0 +1,9 @@
+dict={"key":"value",
+      "points":"2.22",
+      "list":[1,2,9]}
+print(type(dict))
+print(dict.items())
+print(dict.keys())
+dict.update({"Friend":"Athang"})
+print(dict.items())
+print(dict.get("Friend"))

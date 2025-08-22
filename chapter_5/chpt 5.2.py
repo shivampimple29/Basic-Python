@@ -1,0 +1,12 @@
+set1={2,4,7,8,'shf',9.00}
+set2={1,3,6,8,9.00}
+print(type(set1))
+print(len(set1))
+set1.remove('shf')
+set2.pop()
+print(set1)
+print(set2)
+print(set.union(set1,set2))
+print(set.intersection(set1,set2))
+set2.clear()
+print(set2)
