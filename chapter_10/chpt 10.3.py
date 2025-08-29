@@ -1,0 +1,22 @@
+#Q3:Write a Python program to append text to a file and display the text.
+file1 = open("python", "a")
+L =["This is Delhi \n", "This is Paris \n", "This is London\n"]
+file1.write("\n")
+file1.writelines(L)
+file1 = open("python.txt", "r")
+print(file1.read())
+file1.close()
+print("-----------------------------------------------------")
+file1 = open("python.txt", "w")
+file1.write("This is Delhi \n")
+file1 = open("python.txt", "r")
+print(file1.read())
+file1.close()
+print("-----------------------------------------------------")
+file1 = open("python.txt", "w")
+L =["This is Delhi \n", "This is Paris \n", "This is London"]
+file1.writelines(L)
+file1 = open("python.txt", "r")
+print(file1.read())
+file1.close()
+print("-----------------------------------------------------")
