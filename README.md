@@ -105,6 +105,22 @@ Each set contains **Python practice questions and solutions** based on learned c
 
 ---
 
+## 🧩 Mini Project
+
+### 🎮 Tic Tac Toe – Python
+
+A **Python-based Tic Tac Toe game** developed to apply core programming concepts such as:
+
+- Conditional logic  
+- Loops  
+- Functions  
+- Game flow control  
+
+🔗 **Project Repository:**  
+👉 https://github.com/shivampimple29/TicTacToe_Py
+
+---
+
 ## 🎯 Learning Approach
 
 - Concept-by-concept learning  
